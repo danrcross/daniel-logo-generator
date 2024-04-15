@@ -36,6 +36,8 @@ You can either clone the repository or download the zip from my GitHub:
 
 ## Usage
 
+[Click here to view a video demonstrating both the testing and functionality of the app](https://drive.google.com/file/d/1c7nf8CbDnebphhVbBg6h88qewtGdJJFc/view?usp=sharing)
+
 ## License
 
 This application is covered under the [MIT](https://opensource.org/licenses/MIT) license.
